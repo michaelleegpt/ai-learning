@@ -1,0 +1,9 @@
+[submodule "cuda-course"]
+	path = cuda-course
+	url = https://github.com/Infatoshi/cuda-course.git
+[submodule "llm_engineering"]
+	path = llm_engineering
+	url = https://github.com/ed-donner/llm_engineering.git
+[submodule "agents"]
+	path = agents
+	url = https://github.com/ed-donner/agents.git
